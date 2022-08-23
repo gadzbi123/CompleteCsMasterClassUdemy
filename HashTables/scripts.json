@@ -1,0 +1,3 @@
+{
+    "scripts":{"csFormat":"dotnet tool install csharpier -g"}
+}

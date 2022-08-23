@@ -1,0 +1,3 @@
+{
+    "scripts":{"csFormat":"dotnet watch csharpier .\Program.cs"}
+}

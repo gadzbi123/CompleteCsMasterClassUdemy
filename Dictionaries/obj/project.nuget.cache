@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1hDQpjl1TPyPgMmv5M5la7dfE0MScEwhC2JYlz5B5+HNbViKC+5by6s1iX3eu3F3MO3XS4eBf3YBeDj/DnW0Rw==",
+  "success": true,
+  "projectFilePath": "C:\\projekty\\CSharp\\Dictionaries\\HashTables.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kacper\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
