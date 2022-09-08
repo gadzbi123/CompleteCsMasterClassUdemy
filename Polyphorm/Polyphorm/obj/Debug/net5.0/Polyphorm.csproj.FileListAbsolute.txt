@@ -1,0 +1,16 @@
+C:\projekty\CSharp\Polyphorm\Polyphorm\bin\Debug\net5.0\Polyphorm.exe
+C:\projekty\CSharp\Polyphorm\Polyphorm\bin\Debug\net5.0\Polyphorm.deps.json
+C:\projekty\CSharp\Polyphorm\Polyphorm\bin\Debug\net5.0\Polyphorm.runtimeconfig.json
+C:\projekty\CSharp\Polyphorm\Polyphorm\bin\Debug\net5.0\Polyphorm.runtimeconfig.dev.json
+C:\projekty\CSharp\Polyphorm\Polyphorm\bin\Debug\net5.0\Polyphorm.dll
+C:\projekty\CSharp\Polyphorm\Polyphorm\bin\Debug\net5.0\Polyphorm.pdb
+C:\projekty\CSharp\Polyphorm\Polyphorm\obj\Debug\net5.0\Polyphorm.csproj.AssemblyReference.cache
+C:\projekty\CSharp\Polyphorm\Polyphorm\obj\Debug\net5.0\Polyphorm.GeneratedMSBuildEditorConfig.editorconfig
+C:\projekty\CSharp\Polyphorm\Polyphorm\obj\Debug\net5.0\Polyphorm.AssemblyInfoInputs.cache
+C:\projekty\CSharp\Polyphorm\Polyphorm\obj\Debug\net5.0\Polyphorm.AssemblyInfo.cs
+C:\projekty\CSharp\Polyphorm\Polyphorm\obj\Debug\net5.0\Polyphorm.csproj.CoreCompileInputs.cache
+C:\projekty\CSharp\Polyphorm\Polyphorm\obj\Debug\net5.0\Polyphorm.dll
+C:\projekty\CSharp\Polyphorm\Polyphorm\obj\Debug\net5.0\refint\Polyphorm.dll
+C:\projekty\CSharp\Polyphorm\Polyphorm\obj\Debug\net5.0\Polyphorm.pdb
+C:\projekty\CSharp\Polyphorm\Polyphorm\obj\Debug\net5.0\Polyphorm.genruntimeconfig.cache
+C:\projekty\CSharp\Polyphorm\Polyphorm\obj\Debug\net5.0\ref\Polyphorm.dll

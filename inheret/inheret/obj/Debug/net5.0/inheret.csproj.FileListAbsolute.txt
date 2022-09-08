@@ -1,0 +1,16 @@
+C:\projekty\CSharp\inheret\inheret\bin\Debug\net5.0\inheret.exe
+C:\projekty\CSharp\inheret\inheret\bin\Debug\net5.0\inheret.deps.json
+C:\projekty\CSharp\inheret\inheret\bin\Debug\net5.0\inheret.runtimeconfig.json
+C:\projekty\CSharp\inheret\inheret\bin\Debug\net5.0\inheret.runtimeconfig.dev.json
+C:\projekty\CSharp\inheret\inheret\bin\Debug\net5.0\inheret.dll
+C:\projekty\CSharp\inheret\inheret\bin\Debug\net5.0\inheret.pdb
+C:\projekty\CSharp\inheret\inheret\obj\Debug\net5.0\inheret.csproj.AssemblyReference.cache
+C:\projekty\CSharp\inheret\inheret\obj\Debug\net5.0\inheret.GeneratedMSBuildEditorConfig.editorconfig
+C:\projekty\CSharp\inheret\inheret\obj\Debug\net5.0\inheret.AssemblyInfoInputs.cache
+C:\projekty\CSharp\inheret\inheret\obj\Debug\net5.0\inheret.AssemblyInfo.cs
+C:\projekty\CSharp\inheret\inheret\obj\Debug\net5.0\inheret.csproj.CoreCompileInputs.cache
+C:\projekty\CSharp\inheret\inheret\obj\Debug\net5.0\inheret.dll
+C:\projekty\CSharp\inheret\inheret\obj\Debug\net5.0\refint\inheret.dll
+C:\projekty\CSharp\inheret\inheret\obj\Debug\net5.0\inheret.pdb
+C:\projekty\CSharp\inheret\inheret\obj\Debug\net5.0\inheret.genruntimeconfig.cache
+C:\projekty\CSharp\inheret\inheret\obj\Debug\net5.0\ref\inheret.dll

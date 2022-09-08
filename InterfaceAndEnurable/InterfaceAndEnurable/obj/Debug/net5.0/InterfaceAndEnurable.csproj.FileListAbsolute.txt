@@ -1,0 +1,16 @@
+C:\projekty\CSharp\InterfaceAndEnurable\InterfaceAndEnurable\bin\Debug\net5.0\InterfaceAndEnurable.exe
+C:\projekty\CSharp\InterfaceAndEnurable\InterfaceAndEnurable\bin\Debug\net5.0\InterfaceAndEnurable.deps.json
+C:\projekty\CSharp\InterfaceAndEnurable\InterfaceAndEnurable\bin\Debug\net5.0\InterfaceAndEnurable.runtimeconfig.json
+C:\projekty\CSharp\InterfaceAndEnurable\InterfaceAndEnurable\bin\Debug\net5.0\InterfaceAndEnurable.runtimeconfig.dev.json
+C:\projekty\CSharp\InterfaceAndEnurable\InterfaceAndEnurable\bin\Debug\net5.0\InterfaceAndEnurable.dll
+C:\projekty\CSharp\InterfaceAndEnurable\InterfaceAndEnurable\bin\Debug\net5.0\InterfaceAndEnurable.pdb
+C:\projekty\CSharp\InterfaceAndEnurable\InterfaceAndEnurable\obj\Debug\net5.0\InterfaceAndEnurable.csproj.AssemblyReference.cache
+C:\projekty\CSharp\InterfaceAndEnurable\InterfaceAndEnurable\obj\Debug\net5.0\InterfaceAndEnurable.GeneratedMSBuildEditorConfig.editorconfig
+C:\projekty\CSharp\InterfaceAndEnurable\InterfaceAndEnurable\obj\Debug\net5.0\InterfaceAndEnurable.AssemblyInfoInputs.cache
+C:\projekty\CSharp\InterfaceAndEnurable\InterfaceAndEnurable\obj\Debug\net5.0\InterfaceAndEnurable.AssemblyInfo.cs
+C:\projekty\CSharp\InterfaceAndEnurable\InterfaceAndEnurable\obj\Debug\net5.0\InterfaceAndEnurable.csproj.CoreCompileInputs.cache
+C:\projekty\CSharp\InterfaceAndEnurable\InterfaceAndEnurable\obj\Debug\net5.0\InterfaceAndEnurable.dll
+C:\projekty\CSharp\InterfaceAndEnurable\InterfaceAndEnurable\obj\Debug\net5.0\refint\InterfaceAndEnurable.dll
+C:\projekty\CSharp\InterfaceAndEnurable\InterfaceAndEnurable\obj\Debug\net5.0\InterfaceAndEnurable.pdb
+C:\projekty\CSharp\InterfaceAndEnurable\InterfaceAndEnurable\obj\Debug\net5.0\InterfaceAndEnurable.genruntimeconfig.cache
+C:\projekty\CSharp\InterfaceAndEnurable\InterfaceAndEnurable\obj\Debug\net5.0\ref\InterfaceAndEnurable.dll
