@@ -1,0 +1,16 @@
+C:\projekty\CSharp\AdvancedCS\AdvancedCS\bin\Debug\net5.0\AdvancedCS.exe
+C:\projekty\CSharp\AdvancedCS\AdvancedCS\bin\Debug\net5.0\AdvancedCS.deps.json
+C:\projekty\CSharp\AdvancedCS\AdvancedCS\bin\Debug\net5.0\AdvancedCS.runtimeconfig.json
+C:\projekty\CSharp\AdvancedCS\AdvancedCS\bin\Debug\net5.0\AdvancedCS.runtimeconfig.dev.json
+C:\projekty\CSharp\AdvancedCS\AdvancedCS\bin\Debug\net5.0\AdvancedCS.dll
+C:\projekty\CSharp\AdvancedCS\AdvancedCS\bin\Debug\net5.0\AdvancedCS.pdb
+C:\projekty\CSharp\AdvancedCS\AdvancedCS\obj\Debug\net5.0\AdvancedCS.csproj.AssemblyReference.cache
+C:\projekty\CSharp\AdvancedCS\AdvancedCS\obj\Debug\net5.0\AdvancedCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\projekty\CSharp\AdvancedCS\AdvancedCS\obj\Debug\net5.0\AdvancedCS.AssemblyInfoInputs.cache
+C:\projekty\CSharp\AdvancedCS\AdvancedCS\obj\Debug\net5.0\AdvancedCS.AssemblyInfo.cs
+C:\projekty\CSharp\AdvancedCS\AdvancedCS\obj\Debug\net5.0\AdvancedCS.csproj.CoreCompileInputs.cache
+C:\projekty\CSharp\AdvancedCS\AdvancedCS\obj\Debug\net5.0\AdvancedCS.dll
+C:\projekty\CSharp\AdvancedCS\AdvancedCS\obj\Debug\net5.0\refint\AdvancedCS.dll
+C:\projekty\CSharp\AdvancedCS\AdvancedCS\obj\Debug\net5.0\AdvancedCS.pdb
+C:\projekty\CSharp\AdvancedCS\AdvancedCS\obj\Debug\net5.0\AdvancedCS.genruntimeconfig.cache
+C:\projekty\CSharp\AdvancedCS\AdvancedCS\obj\Debug\net5.0\ref\AdvancedCS.dll

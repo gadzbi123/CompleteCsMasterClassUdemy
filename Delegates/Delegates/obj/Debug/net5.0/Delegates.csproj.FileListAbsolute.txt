@@ -1,0 +1,16 @@
+C:\projekty\CSharp\Delegates\Delegates\bin\Debug\net5.0\Delegates.exe
+C:\projekty\CSharp\Delegates\Delegates\bin\Debug\net5.0\Delegates.deps.json
+C:\projekty\CSharp\Delegates\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.json
+C:\projekty\CSharp\Delegates\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.dev.json
+C:\projekty\CSharp\Delegates\Delegates\bin\Debug\net5.0\Delegates.dll
+C:\projekty\CSharp\Delegates\Delegates\bin\Debug\net5.0\Delegates.pdb
+C:\projekty\CSharp\Delegates\Delegates\obj\Debug\net5.0\Delegates.csproj.AssemblyReference.cache
+C:\projekty\CSharp\Delegates\Delegates\obj\Debug\net5.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\projekty\CSharp\Delegates\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfoInputs.cache
+C:\projekty\CSharp\Delegates\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfo.cs
+C:\projekty\CSharp\Delegates\Delegates\obj\Debug\net5.0\Delegates.csproj.CoreCompileInputs.cache
+C:\projekty\CSharp\Delegates\Delegates\obj\Debug\net5.0\Delegates.dll
+C:\projekty\CSharp\Delegates\Delegates\obj\Debug\net5.0\refint\Delegates.dll
+C:\projekty\CSharp\Delegates\Delegates\obj\Debug\net5.0\Delegates.pdb
+C:\projekty\CSharp\Delegates\Delegates\obj\Debug\net5.0\Delegates.genruntimeconfig.cache
+C:\projekty\CSharp\Delegates\Delegates\obj\Debug\net5.0\ref\Delegates.dll
