@@ -6,6 +6,7 @@ using TMPro;
 
 public class WallBehaviour : MonoBehaviour
 {
+    public ballBehaviour ballBehaviour;
     public TMP_Text scoreTextP1;
     private int scoreP1;
     public TMP_Text scoreTextP2;
@@ -28,6 +29,7 @@ public class WallBehaviour : MonoBehaviour
         if (gameObject.name == "WallRight")
         {
             //Game reset
+            StartCoroutine(ballBehaviour.StartBall(false));
             //Add point to player1
             scoreP1++;
             scoreTextP1.text = scoreP1.ToString();
@@ -35,6 +37,7 @@ public class WallBehaviour : MonoBehaviour
         else
         {
             //Game reset
+            StartCoroutine(ballBehaviour.StartBall(true));
             //Add point to player2
             scoreP2++;
             scoreTextP2.text = scoreP2.ToString();
